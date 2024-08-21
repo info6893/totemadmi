@@ -1,0 +1,1 @@
+export type { TicketPrint, FormInputsTotem, FormInputsDni, Paciente, Sis, SisRpta, EstabOrigen } from './interfaces/totemadmi'
